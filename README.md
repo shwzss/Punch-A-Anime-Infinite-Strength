@@ -1,2 +1,3 @@
 # Punch-A-Anime-Infinite-Strength
-lol
+this is the source code for this script
+idc if this gets skiddied lol
